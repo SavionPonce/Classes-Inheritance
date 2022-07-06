@@ -1,0 +1,35 @@
+Sample Class Model
+
+Animal
+---------
++ name: string
++ species: string
++ age: int
+---------
++ move()
++ eat()
+
+
+Book
+---------
++ title: string
++ author: string
++ genre: string
++ publish_year: int
+---------
++ read()
+
+
+Vehicle
+---------
++ model: string
++ brand: string
++ year: int
++ license_plate: string
+---------
++ start_engine()
++ accelerte()
++ reverse()
++ brake()
++ turn()
++ turnoff_engine()

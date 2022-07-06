@@ -1,0 +1,30 @@
+SubClasses Model
+
+Fish (Animal)
++ swim
+-----------
+Snake (Animal)
++ hiss
+-----------
+Person (Animal)
++ talk
+-------------
+
+Textook (Book)
++ study
+---------------
+Address book (Book)
++ search
+-------------
+
+Car (Vehicle)
++ drive
+-------------
+Bicycle (Vehicle)
++ ride
+---------------
+Boat (Vehicle)
++ sailing
+-------------------
+Hot-air Ballon (Vehicle)
++ float
